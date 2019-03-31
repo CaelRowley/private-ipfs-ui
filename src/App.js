@@ -5,7 +5,7 @@ import TextField from '@material-ui/core/TextField';
 
 class App extends Component {
   state = {
-    ipfsHash: 'QmVDyxZK2zNnMJuxx5QsCLca7t4H8Y5t6GKaynLNn2r1sq'
+    ipfsHash: 'QmQ2j6cv4bDcYa9jHBF9JrVqvqQzE778G4yytYBDozvFkh'
   }
 
   handleOnChange = event => {
